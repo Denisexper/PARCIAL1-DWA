@@ -16,6 +16,18 @@ header nav a {
     text-decoration: none;
 }
 
+.carousel-inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 55vh;
+}
+
+.container-fluid {
+    padding: 0;
+}
+
+
 .offers {
     margin-top: 40px;
 }
